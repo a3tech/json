@@ -1,0 +1,28 @@
+[
+{ 
+    "nama" : "Annas",
+    "umur" : 32,
+    "nrp" : 12345,
+    "lulus" : true,
+    "hobby" : [
+        "coding", "gaming", "bisnis", "sport"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Bu Bety",
+        "pembimbing2" : "Bu Erni"
+    }
+},
+{ 
+    "nama" : "Annas",
+    "umur" : 32,
+    "nrp" : 12345,
+    "lulus" : true,
+    "hobby" : [
+        "coding", "gaming", "bisnis", "sport"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Bu Bety",
+        "pembimbing2" : "Bu Erni"
+    }
+}
+]
